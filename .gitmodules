@@ -1,0 +1,4 @@
+[submodule "msdfgen"]
+	path = msdfgen
+	url = https://github.com/Sigurd015/msdfgen.git
+	branch = stable
